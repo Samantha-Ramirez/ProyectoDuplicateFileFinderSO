@@ -1,4 +1,4 @@
-# Buscador de archivos duplicados
+# Duplicate File Finder
 
 Este programa, desarrollado en **C**, busca y detecta archivos duplicados en un sistema de archivos. Emplea algoritmos eficientes para comparar el contenido de los archivos y así identificando duplicados mediante el cálculo de hashes (como MD5). Esto permite a los usuarios liberar espacio en disco al eliminar archivos redundantes.
 
